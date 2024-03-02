@@ -1,0 +1,13 @@
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\bin\Debug\StateDB.mdf
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\bin\Debug\StateDB_log.ldf
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\bin\Debug\Noemi-Angeles-CPT-206-LAB-2.exe.config
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\bin\Debug\Noemi-Angeles-CPT-206-LAB-2.exe
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\bin\Debug\Noemi-Angeles-CPT-206-LAB-2.pdb
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi-Angeles-CPT-206-LAB-2.csproj.AssemblyReference.cache
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi_Angeles_CPT_206_LAB_2.Form1.resources
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi_Angeles_CPT_206_LAB_2.Properties.Resources.resources
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi-Angeles-CPT-206-LAB-2.csproj.GenerateResource.cache
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi-Angeles-CPT-206-LAB-2.csproj.CoreCompileInputs.cache
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi-Angeles-CPT-206-LAB-2.exe
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi-Angeles-CPT-206-LAB-2.pdb
+C:\Users\nomik\source\repos\Noemi-Angeles-CPT-206-LAB-2\obj\Debug\Noemi_Angeles_CPT_206_LAB_2.DisplayIndvStateInfo.resources
