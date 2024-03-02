@@ -1,0 +1,3 @@
+I like how you simplified your search queries with lambdas. It was very organized and easy to read in this format. I would find it useful to have some of the more complex event methods commented more thoroughly. This would allow you to understand each part of the code's purpose at a glance.
+There are two empty event methods that could be deleted that could be deleted from form1: stateComboBox1_SelectedIndexChanged and getResultsTextBox_Click.
+One way that our codes differed was your use of lambdas. In the future I would like to try to incorporate the way you simplified your search queries into the way I write my programs.
